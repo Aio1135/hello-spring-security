@@ -5,6 +5,8 @@ import jakarta.validation.constraints.Size;
 import lombok.Getter;
 import lombok.Setter;
 
+//과제 설명 힌트 참고
+
 @Getter
 @Setter
 public class PasswordChangeDto {
